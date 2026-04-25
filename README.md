@@ -9,13 +9,6 @@
 
 ---
 
-<!-- 🎬 ABSOLUTE CINEMA -->
-<p align="center">
-  <img src="https://pbs.twimg.com/media/GNon_-_XgAAeJWT.jpg" alt="absolute cinema" width="100%" />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🔭 Currently working at **TechnoPH Systems and Integration Inc.**
