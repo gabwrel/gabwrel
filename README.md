@@ -50,14 +50,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabwrel&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
