@@ -2,15 +2,16 @@
 <h3 align="center">Full Stack Developer | MERN + Next.js | Philippines 🇵🇭</h3>
 
 <p align="center">
-  <a href="https://gabwrel.vercel.app">
-    🌐 Portfolio
-  </a> • 
-  <a href="mailto:declarojg@gmail.com">
-    📧 Email
-  </a> • 
-  <a href="https://linkedin.com/in/gabbydeclaro">
-    💼 LinkedIn
-  </a>
+  <a href="https://gabwrel.vercel.app">🌐 Portfolio</a> • 
+  <a href="mailto:declarojg@gmail.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/gabbydeclaro">💼 LinkedIn</a>
+</p>
+
+---
+
+<!-- 🎬 ABSOLUTE CINEMA -->
+<p align="center">
+  <img src="https://pbs.twimg.com/media/GNon_-_XgAAeJWT.jpg" alt="absolute cinema" width="100%" />
 </p>
 
 ---
@@ -59,7 +60,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabwrel&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabwrel&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
