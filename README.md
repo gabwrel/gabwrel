@@ -14,8 +14,7 @@
 - 🔭 Currently working at **TechnoPH Systems and Integration Inc.**
 - 💻 Full Stack Developer specializing in **MERN + Next.js**
 - 🧠 Currently learning **Jest & Docker**
-- ⚡ Built systems including a **Barangay Management System** & real-time apps using **Socket.IO**
-- 🎯 Focused on building scalable and practical web applications
+- 🎯 Focused on building scalable, high-impact web applications
 
 ---
 
