@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabwrel&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabwrel&layout=compact&theme=tokyonight" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 ---
