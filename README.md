@@ -10,7 +10,6 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at **TechnoPH Systems and Integration Inc.**
 - 💻 Full Stack Developer specializing in **MERN + Next.js**
 - 🧠 Currently learning **NestJS, FastAPI/Python, Jest & Docker**
 - 🎯 Focused on building scalable, high-impact web applications
