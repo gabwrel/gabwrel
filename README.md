@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Gabriel Declaro</h1>
 <h3 align="center">Full Stack Developer | MERN + Next.js | Philippines 🇵🇭</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://gabwrel.vercel.app">🌐 Portfolio</a> • 
   <a href="mailto:declarojg@gmail.com">📧 Email</a> • 
   <a href="https://linkedin.com/in/gabbydeclaro">💼 LinkedIn</a>
-</p>
+</p> -->
 
 ---
 
